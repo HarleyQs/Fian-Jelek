@@ -1,7 +1,7 @@
 # =============================================================================
 # PROBLEM B1
 #
-# Given two arrays, train a neural network model to match the X to the Y.
+# Given two arrays, train a neural network model to match the X to the Y. 
 # Predict the model with new values of X [-2.0, 10.0]
 # We provide the model prediction, do not change the code.
 #
