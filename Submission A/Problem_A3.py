@@ -12,7 +12,7 @@
 # Desired accuracy and validation_accuracy > 93%.
 # =======================================================================================================
 
-import urllib.request
+import urllib.request 
 import zipfile
 import tensorflow as tf
 from keras_preprocessing.image import ImageDataGenerator
