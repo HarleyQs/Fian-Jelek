@@ -1,5 +1,5 @@
 # =============================================================================
-# PROBLEM C1
+# PROBLEM C1 
 #
 # Given two arrays, train a neural network model to match the X to the Y.
 # Predict the model with new values of X [-2.0, 10.0]
